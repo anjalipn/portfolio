@@ -46,8 +46,6 @@ I'm a results-driven Full Stack Engineer with extensive experience in architecti
 - [LinkedIn](https://www.linkedin.com/in/anjali-nair-34a28335/)
 - [Portfolio](https://anjalipn.github.io/anjalinair/)
 
-### 📊 GitHub Stats
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalipn&show_icons=true&theme=radical)
 
 ### 🔥 Recent Projects
 - [Portfolio Website](https://github.com/anjalipn/anjalinair) - My professional portfolio showcasing my skills and experience
