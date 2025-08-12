@@ -2,7 +2,7 @@
 
 ## 🚀 Senior Full Stack Engineer | Cloud & Microservices Specialist
 
-I'm a results-driven Full Stack Engineer with extensive experience in architecting scalable, resilient enterprise applications. Currently working at HSBC as a Senior Full Stack Engineer.
+I'm a results-driven Senior Full Stack Engineer with extensive experience in architecting scalable, resilient enterprise applications. Currently working at HSBC as a Senior Full Stack Engineer.
 
 ### 🛠️ Tech Stack
 
